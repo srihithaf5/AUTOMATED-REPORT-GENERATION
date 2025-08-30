@@ -139,7 +139,9 @@ This makes the project not just a simple internship task but a scalable reportin
 
 In summary, this project highlights the importance of automation in data reporting. It improves efficiency, reduces errors, and ensures consistency in the generated reports. By combining Python, pandas, matplotlib, and fpdf2, the project successfully demonstrates how raw data can be turned into professional reports with minimal effort.
 
-Output Sceenshots
+Output Screenshots
+
+<img width="973" height="856" alt="Image" src="https://github.com/user-attachments/assets/ac0df2a4-8797-443b-ad2d-f398a06ffa50" />
 
 
 
