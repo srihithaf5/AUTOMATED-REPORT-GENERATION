@@ -143,6 +143,10 @@ Output Screenshots
 
 <img width="1521" height="132" alt="Image" src="https://github.com/user-attachments/assets/b215799a-133a-4356-8f59-8b9413264a95" />
 
+<img width="979" height="438" alt="Image" src="https://github.com/user-attachments/assets/e3b57da3-924d-441d-8ff9-79308e6549dc" />
+
+<img width="654" height="489" alt="Image" src="https://github.com/user-attachments/assets/48fc3ae7-7088-4d0d-beee-9f0109d30a7c" />
+
 
 
 
