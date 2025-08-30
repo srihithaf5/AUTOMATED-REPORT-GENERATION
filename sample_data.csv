@@ -1,0 +1,5 @@
+name,region,sales,units
+Alice,North,1200.5,10
+Bob,South,980.0,8
+Charlie,East,1400.0,12
+Diana,West,600.0,5
