@@ -14,11 +14,11 @@ MENTOR: NEELA SANTHOSH KUMAR
 
 DESCRIPTION ABOUT THIS TASK
 
-📄 Automated Report Generator
+Automated Report Generator
 
 This project is developed as part of the CODTECH Internship – Task 2. The primary objective is to create an automated reporting system that reads structured data from a file, processes and analyzes it, and then generates a professionally formatted PDF report. Automating reports saves time, improves accuracy, and provides a reusable tool for any dataset analysis.
 
-🚀 Features
+FEATURES
 
 This project comes with several useful features designed to make reporting simple yet effective:
 
@@ -40,20 +40,17 @@ PDF Report Creation – Generates a clean and formatted PDF file using fpdf2, co
 
 Reusable & Extendable – Can be easily customized for different datasets and report requirements.
 
-🖥️ Usage
+USAGE
+ 
 To run the project, follow these steps:
 
 Clone or download this repository.
 
 Install required dependencies:
 
-bash
-
 pip install pandas matplotlib fpdf
 
 Run the script with the following command:
-
-bash
 
 python scripts/minimal_report.py data/sample_data.csv outputs/sample_report.pdf
 
@@ -61,7 +58,7 @@ Input: A CSV file with structured data (e.g., name, region, sales, units).
 
 Output: A PDF file stored in the outputs/ folder.
 
-📊 Example
+EXAMPLE
 
 Input Data (data/sample_data.csv):
 
@@ -87,7 +84,7 @@ Units → count, mean, sum
 
 Visualization: A bar chart comparing sales and units.
 
-🛠️ Technologies Used
+TECHNOLOGIES USED:
 
 Python 3 – Core programming language.
 
@@ -97,7 +94,7 @@ matplotlib – For creating bar chart visualizations.
 
 fpdf2 – For generating PDF reports.
 
-📌 Deliverables
+DELIVERABLES
 
 ✅ Python Script → scripts/minimal_report.py
 
@@ -107,7 +104,7 @@ fpdf2 – For generating PDF reports.
 
 ✅ Project Documentation → README.md
 
-📖 Detailed Description
+Detailed Description
 
 The Automated Report Generator is designed to demonstrate how data can be transformed into meaningful insights through automation. In many industries, analysts and professionals spend hours preparing reports by manually copying values from spreadsheets, calculating statistics, and formatting documents. This project eliminates that effort by automating the entire process.
 
