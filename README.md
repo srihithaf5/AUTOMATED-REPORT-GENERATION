@@ -141,9 +141,9 @@ In summary, this project highlights the importance of automation in data reporti
 
 Output Screenshots
 
-<img width="973" height="856" alt="Image" src="https://github.com/user-attachments/assets/ac0df2a4-8797-443b-ad2d-f398a06ffa50" />
-
 <img width="1521" height="132" alt="Image" src="https://github.com/user-attachments/assets/b215799a-133a-4356-8f59-8b9413264a95" />
+
+
 
 
 
